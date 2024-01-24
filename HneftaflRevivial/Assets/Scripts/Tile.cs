@@ -2,17 +2,40 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Tile : MonoBehaviour
+namespace SeanJ
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+	public class Tile : MonoBehaviour
+	{
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+        #region Public Fields
+
+        [Header("Component References")]
+        public Renderer myRenderer;
+
+        #endregion
+
+        #region Private Fields
+
+        #endregion
+
+        #region Events
+
+        #endregion
+
+        #region Monobehavior Callbacks
+
+        #endregion
+
+        #region Event Handlers
+
+        #endregion
+
+        #region Private Functions
+
+        #endregion
+
+        #region Public Functions
+
+        #endregion
     }
 }
