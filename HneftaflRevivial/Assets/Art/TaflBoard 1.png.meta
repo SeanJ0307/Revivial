@@ -1,0 +1,2802 @@
+fileFormatVersion: 2
+guid: f91252cb160b6d7478eb298978f8c5f6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TaflBoard_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2161.818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821ebf0bc574df149a9bd1de2ad981b4
+      internalID: 444340011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2161.818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471d10ca0175b2a43a5f3b02b5b8398d
+      internalID: -1511104576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2161.818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f926bbcbfc27c48a52faf3c5094e9e
+      internalID: 1886758075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_3
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2161.818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a00a495bb320d044bc384e88d48c89f
+      internalID: -1617328201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_4
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2161.818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0b90ac6b06a9941947e3daa6793242
+      internalID: 283991243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_5
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2161.818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0600092a60b1164f9fa3b93d122818e
+      internalID: -1108888336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_6
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2161.818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fadea04c84a58142b51f024d8041216
+      internalID: 1513867972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_7
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2161.818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eab3a78ff7d68f40b0c6d74d1044cf5
+      internalID: 1005307860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_8
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2161.818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf704f5078c8a64cac658480d3dc506
+      internalID: -744471570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_9
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 2161.818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f70dbd77fa0994b9592e83a6498878
+      internalID: -1933912532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_10
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2161.818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95765a44b39d41a49a9c6b4a345e231c
+      internalID: 2058550144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1945.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30feccc780d5fd488770043629f218c
+      internalID: 1370132995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1945.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8d1660e154fd740b02af8f8743e6f8
+      internalID: 378069529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1945.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555af995c2544924880086bb6d3bc0f7
+      internalID: 1574454987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_14
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1945.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81af9fd59212fc40aaa969f872de3c2
+      internalID: -1409535241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_15
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1945.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9fe86475218a2479df28664b786f3f
+      internalID: -4007049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_16
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1945.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc2e220f82c47b43aa4368ccb1508d6
+      internalID: 745480916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_17
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1945.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1b6731d5243b94299dfd43dcb757a8
+      internalID: -442082413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_18
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1945.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f045196efb0aecc42adfb142243d83d7
+      internalID: -1101573676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_19
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1945.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57282fb037e75574488225dcc1e8f08d
+      internalID: -461212902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_20
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1945.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d06882cccf89d45a72cc904f4371f9
+      internalID: -306377570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_21
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1945.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5625fff3596da4a80b49cce1bcee59
+      internalID: 845908228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1729.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d3179fa3a183e46955ca85d8220465
+      internalID: 440167401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_23
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1729.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503ed1ea16d31db449a927617a0884fe
+      internalID: 1558358147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1729.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2004d04f94b9340b7c64cf9c4409a3
+      internalID: 953880962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_25
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1729.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705243d809d1e6b499b1efc6c4befd8f
+      internalID: 357288850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_26
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1729.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8de6691eb3aac409cfe8ab08b624f3
+      internalID: -1772820172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_27
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1729.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5fca09b19905b4da7a3109672fc367
+      internalID: 710357254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_28
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1729.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dccd150b2931544ace9b5af9141707
+      internalID: -1485527783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_29
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1729.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d5b0cf2bda5c24db3f3ee576076f62
+      internalID: -13080496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_30
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1729.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82da8a8c343ce494aafeb01c51510dc6
+      internalID: -999544012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_31
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1729.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5725294b267354b993134895f6c203
+      internalID: -1860705363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_32
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1729.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcceb0dcb740f4d4bb0f5d4475392a77
+      internalID: 472252612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1513.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdee3bda098e0a4e96f4bf8dfa63e3f
+      internalID: -1319159648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_34
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1513.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60d0af5156e4414ba1a5d607fa5beeb
+      internalID: -1118848290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_35
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1513.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baa2f965f2a31a45a056f80450a2d5e
+      internalID: -1793062137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_36
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1513.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009209ebf9c246648acf22ee6918d684
+      internalID: -1265281047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_37
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1513.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1dfbfcdb063794d9299398bd8a861c
+      internalID: 724308601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_38
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1513.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256a75111e920274aabec9dec2407b87
+      internalID: 137894285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_39
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1513.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231c59a2c644b6644a9e85032d914ffe
+      internalID: -2144866480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_40
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1513.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30932da96033fce4786dbee21f190366
+      internalID: -1717113901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_41
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1513.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77045ab526f64f4681d146a2c25379d
+      internalID: 1535411456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_42
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1513.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0494d76091deac4d813faaf4360c739
+      internalID: 63700550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_43
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1513.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82667296a2d96574a9425e931385a120
+      internalID: -1655055727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1297.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde6766060974a248a7e9054d029a40f
+      internalID: 627908623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_45
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1297.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b550ad533989584aaf18f64f7c218c2
+      internalID: -613276717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_46
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1297.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0289431447936ec4cadd3072b6af59a6
+      internalID: 343054371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_47
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1297.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f1ebb8c152ade4c974f3ea64379c63
+      internalID: 184350327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_48
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1297.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7b5137d14196c458b8f04a311821b8
+      internalID: -840121684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_49
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1297.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b8e56597a60ff4db89016c083d0d2d
+      internalID: -1236741599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_50
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1297.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44123a88781e70c419f8982dfc52ec1a
+      internalID: -144331455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_51
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1297.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff9b6b4efac0894b8bf763b1c91f921
+      internalID: 2131656681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_52
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1297.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9830469df600e0d498b02a6766c3129d
+      internalID: -2111867911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_53
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1297.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6226686fe96781a46b59732bd294b034
+      internalID: -962643357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_54
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1297.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e830616181182e40954b272dc531887
+      internalID: -1668595904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1081.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae55e34908ea73d49a5f573e21a3f94d
+      internalID: 1096909733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_56
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1081.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ceff44becacb1478e4d511dfb867b5
+      internalID: 1178892853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1081.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a73da2b19b09de4e9c34857f0d23e21
+      internalID: -1981807864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_58
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1081.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2521c9bd43d841841a32c7e62740e8b1
+      internalID: -44815095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_59
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1081.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d08ae14deac1094888a68dfcbbe16ef
+      internalID: 1737431417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_60
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1081.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4812a708ede366042b3f8fa6caacaa85
+      internalID: 96162876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_61
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1081.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f1637c69c466d4fb8b428c66b97299
+      internalID: -356658854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_62
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1081.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5189d103b9919042b4c05ed81bdedd2
+      internalID: 722400437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_63
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1081.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef73499b115a206439591684e95ff75a
+      internalID: -611683034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_64
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1081.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66201b1447a4200418aa5eeea0b7ce8b
+      internalID: -742036611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_65
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1081.8181
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf85ed58b97e61245bc3083896c06cbe
+      internalID: 724766895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 865.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ede9bb3864b41246aa8e0daea0bd14c
+      internalID: -951917675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_67
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 865.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baefc6d0f80343047a5c20caac3b2e21
+      internalID: 2049324177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_68
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 865.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6522298775123a4580b6f957cf7e63a
+      internalID: 469750410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_69
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 865.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc20ea423a160a408b6840bf1e96af4
+      internalID: -345133496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_70
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 865.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ccbb9d8d42bfe468f44c8763ac59a6
+      internalID: -1294370969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_71
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 865.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de3a8942f6eb4c46822140a408c63e1
+      internalID: 1044204767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_72
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 865.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976ed41ec7af91248a4b6dd4d68480e4
+      internalID: -883993436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_73
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 865.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4606ead8d8acb7b40aac9c64051a7538
+      internalID: -1974721935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_74
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 865.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cd546a2ec1bc74b880199e57f93c9d
+      internalID: 2140549531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_75
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 865.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005e50697e288ec42914ec0b785cbb53
+      internalID: 1737967506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_76
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 865.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a959d010c1eb4b4b89bdac285c37b84
+      internalID: 949121377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 649.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c243e522d18f148be4ee287673ac07
+      internalID: -365508038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_78
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 649.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558b9d8eb3b924540960317db5c43fd5
+      internalID: -2088427375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_79
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 649.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58da39013b54595489f34975c3229b2c
+      internalID: 68315542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_80
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 649.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141c4d3be62ff57459ce56fadadad1fb
+      internalID: -1699909753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_81
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 649.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a258cadd3169d41833ad48e3dbc67d
+      internalID: -965382477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_82
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 649.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1f0e0ad8035e04885f0e956efdede0
+      internalID: 1039918978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_83
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 649.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32d396d8965fc84bac3c9f6cdd8ee6c
+      internalID: -2028819224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_84
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 649.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35757293383a89e459f54bedbf951ff5
+      internalID: -231104762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_85
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 649.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236d9abcaccacce4bae246ec37822e1c
+      internalID: 312775708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_86
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 649.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c1e65bc4196c84192d74e5d470af80
+      internalID: 943107704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_87
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 649.8182
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f977983823957ea418a8275a78319466
+      internalID: 133435579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82666f6d5902edd4bb1c175fd096e04b
+      internalID: -1840411689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_89
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 433.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0df8d147d20294198d93ab7484ea8c
+      internalID: 1508154290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_90
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 433.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881da183175d37d469353a5919907055
+      internalID: -1529517402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_91
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 433.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a76a0f8b632a949af9b569c585fe05
+      internalID: -215965003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_92
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 433.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8641a86758ccdd444bd02a4996c53c0c
+      internalID: -333840560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_93
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 433.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c10d93ba9efb824d916686431159aeb
+      internalID: -2007222077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_94
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 433.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de5edb90e00f2e41ac9600835c5de57
+      internalID: -560610794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_95
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 433.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e515fb390d45b2f45864e3af3f18c641
+      internalID: -940221524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_96
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 433.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3b6248392712746935665520e546f0
+      internalID: 1688338061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_97
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 433.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d0cf45207d1854db314604dea0a318
+      internalID: -1921977856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_98
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 433.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c7dbf443aa44746b9315892a78bad0
+      internalID: -1150195825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a0666619115e94ebc072b532b68258
+      internalID: 1543853352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_100
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 217.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49780451942df949baec9937c208161
+      internalID: 736244336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_101
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 217.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6f0b4a09484124d9d097fda866371c
+      internalID: 1410095413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_102
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 217.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dbe668ee2341d439edd34ed25606b2
+      internalID: -1437269536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_103
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 217.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3727d36a4654dd4da177e2c41f857d0
+      internalID: 642010364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_104
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 217.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0d135be27b6304b86a367fe63a7054
+      internalID: 1156058640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_105
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 217.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5804d0aaf37da43900fc7a656f4430
+      internalID: -1256467857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_106
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 217.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b6ad357d31cf449a8371eaefa2dff7
+      internalID: -1678036292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_107
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 217.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3eab7d4c65735146a04cf16b80fd7e0
+      internalID: 522943738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_108
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 217.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa54d17330674474e8b2d734faa6cca0
+      internalID: -1340313368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_109
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 217.81818
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f5f09ad0c29df45bf5c7ec3766471e
+      internalID: -967843610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.8181763
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1c4c9a20245c74799bfb7f591a57d4
+      internalID: 2128135465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_111
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1.8181763
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca62a6a9743cff4a9adf6d8fad15864
+      internalID: -108590085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_112
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1.8181763
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a92c798499941c4abbf3be040583a23
+      internalID: -1983559304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_113
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1.8181763
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4258512c70f36eb4d9156f6a82ff1ef4
+      internalID: 1600905610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_114
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1.8181763
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc13bf160fd6ebb47ba82b229b145206
+      internalID: 983387763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_115
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1.8181763
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ac95131cd85154d9ef4711f0793837
+      internalID: -43476072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_116
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1.8181763
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ccca1785a26a2489b7b04a420cbd40
+      internalID: 633983548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_117
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1.8181763
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2f7e83b8f78cd4990e07132f4f94a4
+      internalID: -494113653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_118
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1.8181763
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dac0866fc681449a0dfcd1a9cec555
+      internalID: 1112930561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_119
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1.8181763
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefe0d7ace10d5a4fa883581ae96803e
+      internalID: 570469334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaflBoard_120
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1.8181763
+        width: 216.18182
+        height: 216.18182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4807475a47836194a88b45884becac9c
+      internalID: 1714494838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4c49b6802508eb14cb962e2ef69aa46a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TaflBoard_0: 444340011
+      TaflBoard_1: -1511104576
+      TaflBoard_10: 2058550144
+      TaflBoard_100: 736244336
+      TaflBoard_101: 1410095413
+      TaflBoard_102: -1437269536
+      TaflBoard_103: 642010364
+      TaflBoard_104: 1156058640
+      TaflBoard_105: -1256467857
+      TaflBoard_106: -1678036292
+      TaflBoard_107: 522943738
+      TaflBoard_108: -1340313368
+      TaflBoard_109: -967843610
+      TaflBoard_11: 1370132995
+      TaflBoard_110: 2128135465
+      TaflBoard_111: -108590085
+      TaflBoard_112: -1983559304
+      TaflBoard_113: 1600905610
+      TaflBoard_114: 983387763
+      TaflBoard_115: -43476072
+      TaflBoard_116: 633983548
+      TaflBoard_117: -494113653
+      TaflBoard_118: 1112930561
+      TaflBoard_119: 570469334
+      TaflBoard_12: 378069529
+      TaflBoard_120: 1714494838
+      TaflBoard_13: 1574454987
+      TaflBoard_14: -1409535241
+      TaflBoard_15: -4007049
+      TaflBoard_16: 745480916
+      TaflBoard_17: -442082413
+      TaflBoard_18: -1101573676
+      TaflBoard_19: -461212902
+      TaflBoard_2: 1886758075
+      TaflBoard_20: -306377570
+      TaflBoard_21: 845908228
+      TaflBoard_22: 440167401
+      TaflBoard_23: 1558358147
+      TaflBoard_24: 953880962
+      TaflBoard_25: 357288850
+      TaflBoard_26: -1772820172
+      TaflBoard_27: 710357254
+      TaflBoard_28: -1485527783
+      TaflBoard_29: -13080496
+      TaflBoard_3: -1617328201
+      TaflBoard_30: -999544012
+      TaflBoard_31: -1860705363
+      TaflBoard_32: 472252612
+      TaflBoard_33: -1319159648
+      TaflBoard_34: -1118848290
+      TaflBoard_35: -1793062137
+      TaflBoard_36: -1265281047
+      TaflBoard_37: 724308601
+      TaflBoard_38: 137894285
+      TaflBoard_39: -2144866480
+      TaflBoard_4: 283991243
+      TaflBoard_40: -1717113901
+      TaflBoard_41: 1535411456
+      TaflBoard_42: 63700550
+      TaflBoard_43: -1655055727
+      TaflBoard_44: 627908623
+      TaflBoard_45: -613276717
+      TaflBoard_46: 343054371
+      TaflBoard_47: 184350327
+      TaflBoard_48: -840121684
+      TaflBoard_49: -1236741599
+      TaflBoard_5: -1108888336
+      TaflBoard_50: -144331455
+      TaflBoard_51: 2131656681
+      TaflBoard_52: -2111867911
+      TaflBoard_53: -962643357
+      TaflBoard_54: -1668595904
+      TaflBoard_55: 1096909733
+      TaflBoard_56: 1178892853
+      TaflBoard_57: -1981807864
+      TaflBoard_58: -44815095
+      TaflBoard_59: 1737431417
+      TaflBoard_6: 1513867972
+      TaflBoard_60: 96162876
+      TaflBoard_61: -356658854
+      TaflBoard_62: 722400437
+      TaflBoard_63: -611683034
+      TaflBoard_64: -742036611
+      TaflBoard_65: 724766895
+      TaflBoard_66: -951917675
+      TaflBoard_67: 2049324177
+      TaflBoard_68: 469750410
+      TaflBoard_69: -345133496
+      TaflBoard_7: 1005307860
+      TaflBoard_70: -1294370969
+      TaflBoard_71: 1044204767
+      TaflBoard_72: -883993436
+      TaflBoard_73: -1974721935
+      TaflBoard_74: 2140549531
+      TaflBoard_75: 1737967506
+      TaflBoard_76: 949121377
+      TaflBoard_77: -365508038
+      TaflBoard_78: -2088427375
+      TaflBoard_79: 68315542
+      TaflBoard_8: -744471570
+      TaflBoard_80: -1699909753
+      TaflBoard_81: -965382477
+      TaflBoard_82: 1039918978
+      TaflBoard_83: -2028819224
+      TaflBoard_84: -231104762
+      TaflBoard_85: 312775708
+      TaflBoard_86: 943107704
+      TaflBoard_87: 133435579
+      TaflBoard_88: -1840411689
+      TaflBoard_89: 1508154290
+      TaflBoard_9: -1933912532
+      TaflBoard_90: -1529517402
+      TaflBoard_91: -215965003
+      TaflBoard_92: -333840560
+      TaflBoard_93: -2007222077
+      TaflBoard_94: -560610794
+      TaflBoard_95: -940221524
+      TaflBoard_96: 1688338061
+      TaflBoard_97: -1921977856
+      TaflBoard_98: -1150195825
+      TaflBoard_99: 1543853352
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
